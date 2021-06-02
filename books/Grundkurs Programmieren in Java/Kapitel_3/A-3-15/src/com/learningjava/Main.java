@@ -3,6 +3,15 @@ package com.learningjava;
 import java.util.Scanner;
 
 public class Main {
+    /*
+    Aufgabe 3.15:
+    "Schreiben Sie ein Java-Programm, das eine vorgegebene Zahl von Sekunden in
+    Jahre, Tage, Stunden, Minuten und Sekunden zerlegt." [1]
+
+    Quelle:
+    [1] Dietmar Ratz, Dennis Schulmeister-Zimolong, Detlef Seese, Jan Wiesenberger,
+        Grundkurs Programmieren in Java, 8. Auflage, 2018, Hanser Verlag
+     */
 
     public static void main(String[] args) {
 	// write your code here

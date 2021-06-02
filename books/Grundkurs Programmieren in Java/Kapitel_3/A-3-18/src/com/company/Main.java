@@ -1,6 +1,14 @@
 package com.company;
 
 public class Main {
+    /*
+    Aufgabe 3.18:
+    "Bestimmen Sie die Ausgabe des nachfolgenden Java-Programms." [1]
+
+    Quelle:
+    [1] Dietmar Ratz, Dennis Schulmeister-Zimolong, Detlef Seese, Jan Wiesenberger,
+        Grundkurs Programmieren in Java, 8. Auflage, 2018, Hanser Verlag
+     */
 
     public static void main(String[] args) {
 	// write your code here

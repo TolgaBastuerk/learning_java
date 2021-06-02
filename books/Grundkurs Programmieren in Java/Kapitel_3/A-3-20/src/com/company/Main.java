@@ -1,6 +1,15 @@
 package com.company;
 
 public class Main {
+    /*
+    Aufgabe 3.20:
+    "Sie wollen ein Schachbrett nummerieren. Formuliere Sie eine geschachtelte
+    for-Schleife, die eine entsprechend formatierte Ausgabe erzeugt." [1]
+
+    Quelle:
+    [1] Dietmar Ratz, Dennis Schulmeister-Zimolong, Detlef Seese, Jan Wiesenberger,
+        Grundkurs Programmieren in Java, 8. Auflage, 2018, Hanser Verlag
+     */
 
     public static void main(String[] args) {
 	// write your code here

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d98bcfba-ed07-42e4-9f13-d7744d2df2b3" name="Default Changelist" comment="" />
+    <list default="true" id="d98bcfba-ed07-42e4-9f13-d7744d2df2b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../A-3-11/src/com/learningjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A-3-11/src/com/learningjava/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-3-12/src/com/learningjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A-3-12/src/com/learningjava/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-3-13/src/com/learningjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A-3-13/src/com/learningjava/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-3-14/src/com/learningjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A-3-14/src/com/learningjava/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-3-15/src/com/learningjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A-3-15/src/com/learningjava/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-3-18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A-3-18/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-3-18/out/production/untitled104/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A-3-18/out/production/untitled104/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-3-18/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A-3-18/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +81,11 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A-3-20" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">

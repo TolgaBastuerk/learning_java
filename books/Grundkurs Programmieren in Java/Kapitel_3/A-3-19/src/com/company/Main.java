@@ -3,6 +3,23 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
+    /*
+    Aufgabe 3.27:
+    "Der Algorithmus
+        1. Lies den Wert von n ein.
+        2. Setze i auf 3.
+        3. Solange i < 2n, wiederhole:
+            a. Erhöhe i um 1.
+            b. Gib 2i1+1 aus.
+    soll auf drei verschiedene Arten implementiert werden: Schreiben Sie jeweils
+    ein Java-Programmstück, das diesen Algorithmus als while-, als for- und als
+    do-while-Schleife realisiert. Sämtliche Programmstücke sollen die gleichen Aus-
+    gaben erzeugen!" [1]
+
+    Quelle:
+    [1] Dietmar Ratz, Dennis Schulmeister-Zimolong, Detlef Seese, Jan Wiesenberger,
+        Grundkurs Programmieren in Java, 8. Auflage, 2018, Hanser Verlag
+     */
 
     public static void main(String[] args) {
 	// write your code here
