@@ -25,6 +25,6 @@ public class EsWarEinmal {
                 wolf.mitArtikel(Fall.DATIV,false),
                 ", und damit beginnt unsere schaurige Geschichte..."
         );
-        
+
     }
 }
